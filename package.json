@@ -1,0 +1,23 @@
+{
+  "name": "betting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishorekumaru/tote.git"
+  },
+  "author": "KK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kishorekumaru/tote/issues"
+  },
+  "homepage": "https://github.com/kishorekumaru/tote#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
